@@ -1,0 +1,19 @@
+{
+  "name": "trabajointegradortdlc",
+  "version": "1.0.0",
+  "description": "analizador lexicografico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AguirreAgustin/trabajoIntegradorTDLC.git"
+  },
+  "author": "aguirre-schleicher-saraceny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AguirreAgustin/trabajoIntegradorTDLC/issues"
+  },
+  "homepage": "https://github.com/AguirreAgustin/trabajoIntegradorTDLC#readme"
+}
